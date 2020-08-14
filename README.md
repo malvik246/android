@@ -1,1 +1,1 @@
-This repositor cintaind my work on Android Project.
+This repositor contains my work on Android Project.

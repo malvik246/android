@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Work</string>
+    <string-array name="modules">
+        <item>Picasso Image</item>
+        <item>Picasso Image Cacheing</item>
+        <item>Recycler View</item>
+        <item>Social Media App</item>
+    </string-array>
+</resources>
